@@ -17,4 +17,6 @@ The contents of each folder are:
 + `figures/` contains PNG files of MatPlotLib and Seaborn created data visualizations
 + `models/` contains pickled iterations of the classification model
 + `notebooks-development/` contains the Jupyter Notebooks used in creating the data pipeline and models
-+ `src/` contains custom abstracted Python scripts used in the data pipeline
++ `src/` contains custom Python scripts used in the data pipeline
+
+To begin exploring this repo, I recommend starting with the `notebooks-developments/` folder and following the chronologically named notebooks to understand the path leading up to how the final model was built.
